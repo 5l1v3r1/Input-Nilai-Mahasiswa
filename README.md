@@ -1,2 +1,6 @@
 # Input-Nilai-Mahasiswa
-Menggunakan Bahasa Program Pascal
+Bahasa Program : Pascal<br>
+Terdapat Menu :<br>
+- Input Data Nilai Mahasiswa
+- Daftar Nilai Mahasiswa {Hasil Inputan Sebelumnya}
+- Keluar {Logout}
